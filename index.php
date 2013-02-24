@@ -10,7 +10,7 @@
 	<!-- Set the viewport width to device width for mobile -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<title>NYUAD Hackathon Project Upload</title>
+	<title>Project Upload</title>
 
 	<!-- Included CSS Files -->
 	<link rel="stylesheet" href="stylesheets/app.css">
@@ -22,7 +22,7 @@
 
 	<div class="row">
 		<div class="ten columns offset-by-one">
-			<h1>NYUAD Hackathon Project Upload Form</h1>
+			<h1>Project Upload Form</h1>
 			<p>Thanks for your hard work! You can upload a ZIP file of your project here.</p>
 			<div class="panel">
 				<b>Important!</b>
